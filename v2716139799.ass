@@ -8,7 +8,7 @@ Style: Default, Arial, 18, 16777215, 16777215, 16777215, -3221225464, 0, 0, 1, 3
 
 [Events]
 Format: Start, End, Style, Text
-Dialogue: 23:59:59.88, 24:00:01.97, Default, {\c&H507FFF&}mimikurosaki{\c&HFFFFFF&}: пы x⁣3
+Dialogue: 0:00:01.00, 0:00:03.00, Default, {\c&H507FFF&}mimikurosaki{\c&HFFFFFF&}: пы x⁣3
 Dialogue: 0:00:01.93, 0:00:04.03, Default, {\c&HE22B8A&}KiraNis_1{\c&HFFFFFF&}: Nervous
 Dialogue: 0:00:05.02, 0:00:07.24, Default, {\c&H008000&}akperokul{\c&HFFFFFF&}: ResidentSleeper
 Dialogue: 0:00:05.64, 0:00:07.80, Default, {\c&H578B2E&}balamut2603{\c&HFFFFFF&}: SipTime x⁣5
